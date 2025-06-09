@@ -1,0 +1,15 @@
+C:\Users\aleja\Escritorio\SOFTWARE 2\tallerpruebasunitarias-alejo-pine\SistemaRetiros\bin\Debug\net8.0\SistemaRetiros.exe
+C:\Users\aleja\Escritorio\SOFTWARE 2\tallerpruebasunitarias-alejo-pine\SistemaRetiros\bin\Debug\net8.0\SistemaRetiros.deps.json
+C:\Users\aleja\Escritorio\SOFTWARE 2\tallerpruebasunitarias-alejo-pine\SistemaRetiros\bin\Debug\net8.0\SistemaRetiros.runtimeconfig.json
+C:\Users\aleja\Escritorio\SOFTWARE 2\tallerpruebasunitarias-alejo-pine\SistemaRetiros\bin\Debug\net8.0\SistemaRetiros.dll
+C:\Users\aleja\Escritorio\SOFTWARE 2\tallerpruebasunitarias-alejo-pine\SistemaRetiros\bin\Debug\net8.0\SistemaRetiros.pdb
+C:\Users\aleja\Escritorio\SOFTWARE 2\tallerpruebasunitarias-alejo-pine\SistemaRetiros\obj\Debug\net8.0\SistemaRetiros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\Escritorio\SOFTWARE 2\tallerpruebasunitarias-alejo-pine\SistemaRetiros\obj\Debug\net8.0\SistemaRetiros.AssemblyInfoInputs.cache
+C:\Users\aleja\Escritorio\SOFTWARE 2\tallerpruebasunitarias-alejo-pine\SistemaRetiros\obj\Debug\net8.0\SistemaRetiros.AssemblyInfo.cs
+C:\Users\aleja\Escritorio\SOFTWARE 2\tallerpruebasunitarias-alejo-pine\SistemaRetiros\obj\Debug\net8.0\SistemaRetiros.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Escritorio\SOFTWARE 2\tallerpruebasunitarias-alejo-pine\SistemaRetiros\obj\Debug\net8.0\SistemaRetiros.sourcelink.json
+C:\Users\aleja\Escritorio\SOFTWARE 2\tallerpruebasunitarias-alejo-pine\SistemaRetiros\obj\Debug\net8.0\SistemaRetiros.dll
+C:\Users\aleja\Escritorio\SOFTWARE 2\tallerpruebasunitarias-alejo-pine\SistemaRetiros\obj\Debug\net8.0\refint\SistemaRetiros.dll
+C:\Users\aleja\Escritorio\SOFTWARE 2\tallerpruebasunitarias-alejo-pine\SistemaRetiros\obj\Debug\net8.0\SistemaRetiros.pdb
+C:\Users\aleja\Escritorio\SOFTWARE 2\tallerpruebasunitarias-alejo-pine\SistemaRetiros\obj\Debug\net8.0\SistemaRetiros.genruntimeconfig.cache
+C:\Users\aleja\Escritorio\SOFTWARE 2\tallerpruebasunitarias-alejo-pine\SistemaRetiros\obj\Debug\net8.0\ref\SistemaRetiros.dll
